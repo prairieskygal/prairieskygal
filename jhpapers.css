@@ -1,3 +1,3 @@
 a.site-title img {
-  max-height: 200px;
+  max-height: !important 200px;
 }
