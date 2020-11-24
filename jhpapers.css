@@ -4,3 +4,6 @@ header {
 a.site-title img {
   max-height: 200px;
 }
+p {
+  border: solid 1px blue;
+}
